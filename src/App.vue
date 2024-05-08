@@ -2,7 +2,7 @@
   <v-app>
     <v-app-bar app color="primary" dark>
       <div class="d-flex align-center">
-        <span class="mr-2">Trevor's Ice Cream Maker Simulator</span>
+        <span class="mr-2">Ice Cream Maker Simulator</span>
         <v-icon>mdi-storefront</v-icon>
       </div>
 
